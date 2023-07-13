@@ -1,6 +1,21 @@
 <p align="center">
-  <img align="center" src="https://github.com/hcraM41/hcraM41/blob/main/developer.gif"/>
+<img align="center" src="https://github.com/hcraM41/hcraM41/blob/main/developer.gif"/>
+  <br><br />
+  <samp>
+    😊 Hey! Welcome to my profile
+    <br />
+    <br />💻 Take a look at my stats  🔍
+    <br />
+    <br />
+  </samp>
+
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcraM41&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hcraM41's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcraM41&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+
 </p>
+
+<br />
+
 
 <!--
 **hcraM41/hcraM41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
