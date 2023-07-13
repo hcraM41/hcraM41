@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://github.com/hcraM41/hcraM41/blob/main/developer.gif"/>
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br />
   <samp>
     😊 Hey! Welcome to my profile
@@ -8,10 +8,7 @@
     <br />
     <br />
   </samp>
-
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcraM41&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hcraM41's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcraM41&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hcraM41&theme=github)
 </p>
 
 <br />
