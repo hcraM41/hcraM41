@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/hcraM41/hcraM41/developer.gif"/>
+  <img align="center" src="https://github.com/hcraM41/hcraM41/blob/main/developer.gif"/>
 </p>
 
 <!--
