@@ -9,8 +9,7 @@
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcraM41&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hcraM41's github stats" /> </a> | <a> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hcraM41&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hcraM41&layout=compact&theme=buefy&hide_border=true" />
 
 </p>
 
